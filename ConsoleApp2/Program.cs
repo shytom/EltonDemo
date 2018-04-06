@@ -11,6 +11,7 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             Console.WriteLine("你好，世界");
+            Console.WriteLine("Hello,Git!");
             Console.ReadKey();
      
         }
